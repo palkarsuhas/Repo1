@@ -1,0 +1,11 @@
+Change line1 added
+ Volume in drive D is Data
+ Volume Serial Number is 2846-B8FB
+
+ Directory of D:\Users\apygr\OneDrive - Dedalus S.p.A\Desktop\MyGitProject
+
+02/09/2021  14:16    <DIR>          .
+02/09/2021  14:16    <DIR>          ..
+02/09/2021  14:16                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  99.726.295.040 bytes free
